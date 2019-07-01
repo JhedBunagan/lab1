@@ -34,6 +34,8 @@
 .btn:active,
 .btn.active {
   background-image: none;
+  background-color: #000;
+/*   try */
 }
 
 .btn-default {
@@ -71,6 +73,7 @@
 .btn-primary:hover,
 .btn-primary:focus {
   background-color: #2d6ca2;
+/*   color sa napipindot na word */
   background-position: 0 -15px;
 }
 
