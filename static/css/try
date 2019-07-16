@@ -1,4 +1,4 @@
-<style>
+
 * {
   box-sizing: border-box;
 }
@@ -63,4 +63,3 @@ h1 {
   background-color: #666;
   color: white;
 }
-</style>
